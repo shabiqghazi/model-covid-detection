@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1703563791 source:/home/armein/Proyek2023/2023/BatukPC/batukpc/main.cpp
+	<iostream>
+	<string>
+	"native-lib-pc.h"
+
+1703565281 /home/armein/Proyek2023/2023/BatukPC/batukpc/detection.h
+	<string>
+	<string>
+	<cstdlib>
+	<climits>
+	<ctime>
+	<cmath>
+
+1703562028 /home/armein/Proyek2023/2023/BatukPC/batukpc/native-lib-pc.h
+
+1703580901 source:/home/armein/Proyek2023/2023/BatukPC/batukpc/native-lib-pc.cpp
+	<string>
+	"detection.h"
+	"input.h"
+	"native-lib-pc.h"
+
+1703563779 /home/armein/Proyek2023/2023/BatukPC/batukpc/input.h
+
+1703583307 source:d:\kuliah\-s2 itb\semester 5\batukpc\native-lib-pc.cpp
+	<string>
+	"detection.h"
+	"input.h"
+	"native-lib-pc.h"
+
+1703583271 d:\kuliah\-s2 itb\semester 5\batukpc\detection.h
+	<string>
+	<string>
+	<cstdlib>
+	<climits>
+	<ctime>
+	<cmath>
+
+1703563779 d:\kuliah\-s2 itb\semester 5\batukpc\input.h
+
+1703562028 d:\kuliah\-s2 itb\semester 5\batukpc\native-lib-pc.h
+
+1703583887 source:d:\kuliah\-s2 itb\semester 5\batukpc\main.cpp
+	<iostream>
+	<string>
+	"native-lib-pc.h"
+
