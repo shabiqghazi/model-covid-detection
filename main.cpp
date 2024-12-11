@@ -1,7 +1,15 @@
 #include <iostream>
 #include <string>
+#ifdef _WIN32
 #include <windows.h>
 #include <wspiapi.h>
+#else
+#include <unistd.h>  // untuk Linux/Unix
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#endif
 //#include "input.h"
 #include "native-lib-pc.h"
 
